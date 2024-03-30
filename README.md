@@ -10,4 +10,4 @@ Este taller es para revisar nuestros conocimientos en github
 Yo como administrador quiero crear usuarios para darle acceso al sistema
 
 ### Criterios de aceptación
-El usuario ha sido creado con éxito
+El usuario ha sido creado con éxito.
