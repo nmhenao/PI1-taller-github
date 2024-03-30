@@ -6,6 +6,12 @@ Este taller es para revisar nuestros conocimientos en github
 - Carlos Quintero
 - Juan David Osorio
 
+##  HU1 - Crear usuarios
+Yo como administrador quiero crear usuarios para darle acceso al sistema
+
+### Criterios de aceptación
+El usuario ha sido creado con éxito.
+
 ## HU2 editar usuario
 yo como administrador quiero editar
 
@@ -13,8 +19,3 @@ yo como administrador quiero editar
 este es
 
 
-##  HU1 - Crear usuarios
-Yo como administrador quiero crear usuarios para darle acceso al sistema
-
-### Criterios de aceptación
-El usuario ha sido creado con éxito.
