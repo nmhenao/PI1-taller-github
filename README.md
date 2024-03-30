@@ -11,3 +11,9 @@ yo como administrador quiero editar
 
 ### Criterios de aceptación
 este es
+
+##  HU1 - Crear usuarios
+Yo como administrador quiero crear usuarios para darle acceso al sistema
+
+### Criterios de aceptación
+El usuario ha sido creado con éxito.
